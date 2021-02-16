@@ -1,5 +1,4 @@
 // Dany Flores
-// CS2400, Section 01
 // Project 1 - ADT Bag
 // 05 October 2020
 
