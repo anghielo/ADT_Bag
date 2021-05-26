@@ -1,4 +1,5 @@
 ADT Bag
+
 Abstract Data Structure - Bag
 
 Interface and implementation.
